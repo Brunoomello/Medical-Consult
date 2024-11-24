@@ -1,0 +1,14 @@
+br\com\brunomelo\medicalconsult\usuario\repositories\UsuarioRepository.class
+br\com\brunomelo\medicalconsult\consulta\service\ConsultaService.class
+br\com\brunomelo\medicalconsult\usuario\domain\Permissao.class
+br\com\brunomelo\medicalconsult\consulta\resources\ConsultaResource.class
+br\com\brunomelo\medicalconsult\config\JacksonConfig.class
+br\com\brunomelo\medicalconsult\config\SecurityConfig.class
+br\com\brunomelo\medicalconsult\usuario\services\UsuarioService.class
+br\com\brunomelo\medicalconsult\MedicalconsultApplication.class
+br\com\brunomelo\medicalconsult\usuario\domain\Usuario.class
+br\com\brunomelo\medicalconsult\consulta\repository\ConsultaRepository.class
+br\com\brunomelo\medicalconsult\consulta\domain\Consulta.class
+br\com\brunomelo\medicalconsult\config\SwaggerConfig.class
+br\com\brunomelo\medicalconsult\exception\ExceptionDataIntegrityViolation.class
+br\com\brunomelo\medicalconsult\usuario\resources\UsuarioResource.class
